@@ -1,0 +1,6 @@
+E:\LapTrinhWeb\SV18T1021002\SV18T1021002.DomainModel\bin\Debug\SV18T1021002.DomainModel.dll
+E:\LapTrinhWeb\SV18T1021002\SV18T1021002.DomainModel\bin\Debug\SV18T1021002.DomainModel.pdb
+E:\LapTrinhWeb\SV18T1021002\SV18T1021002.DomainModel\obj\Debug\SV18T1021002.DomainModel.csproj.CoreCompileInputs.cache
+E:\LapTrinhWeb\SV18T1021002\SV18T1021002.DomainModel\obj\Debug\SV18T1021002.DomainModel.dll
+E:\LapTrinhWeb\SV18T1021002\SV18T1021002.DomainModel\obj\Debug\SV18T1021002.DomainModel.pdb
+E:\LapTrinhWeb\SV18T1021002\SV18T1021002.DomainModel\obj\Debug\SV18T1021002.DomainModel.csproj.AssemblyReference.cache

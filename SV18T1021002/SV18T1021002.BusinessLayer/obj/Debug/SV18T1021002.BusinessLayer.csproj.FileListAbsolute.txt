@@ -1,0 +1,11 @@
+E:\LapTrinhWeb\SV18T1021002\SV18T1021002.BusinessLayer\bin\Debug\SV18T1021002.BusinessLayer.dll
+E:\LapTrinhWeb\SV18T1021002\SV18T1021002.BusinessLayer\bin\Debug\SV18T1021002.BusinessLayer.pdb
+E:\LapTrinhWeb\SV18T1021002\SV18T1021002.BusinessLayer\bin\Debug\SV18T1021002.DataLayer.dll
+E:\LapTrinhWeb\SV18T1021002\SV18T1021002.BusinessLayer\bin\Debug\SV18T1021002.DomainModel.dll
+E:\LapTrinhWeb\SV18T1021002\SV18T1021002.BusinessLayer\bin\Debug\SV18T1021002.DataLayer.pdb
+E:\LapTrinhWeb\SV18T1021002\SV18T1021002.BusinessLayer\bin\Debug\SV18T1021002.DomainModel.pdb
+E:\LapTrinhWeb\SV18T1021002\SV18T1021002.BusinessLayer\obj\Debug\SV18T1021002.BusinessLayer.csproj.AssemblyReference.cache
+E:\LapTrinhWeb\SV18T1021002\SV18T1021002.BusinessLayer\obj\Debug\SV18T1021002.BusinessLayer.csproj.CoreCompileInputs.cache
+E:\LapTrinhWeb\SV18T1021002\SV18T1021002.BusinessLayer\obj\Debug\SV18T1021002.BusinessLayer.csproj.CopyComplete
+E:\LapTrinhWeb\SV18T1021002\SV18T1021002.BusinessLayer\obj\Debug\SV18T1021002.BusinessLayer.dll
+E:\LapTrinhWeb\SV18T1021002\SV18T1021002.BusinessLayer\obj\Debug\SV18T1021002.BusinessLayer.pdb
